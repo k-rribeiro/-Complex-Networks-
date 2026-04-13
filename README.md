@@ -5,7 +5,6 @@ This repository contains materials and implementations related to the study of *
 ---
 
 ## Course Overview
-
 The course introduces the fundamental concepts of **complex network theory**, providing the essential tools for the representation, modeling, characterization, and classification of networks.
 
 These concepts are applied to the analysis of real systems such as:
