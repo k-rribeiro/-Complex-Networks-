@@ -73,8 +73,3 @@ These concepts are applied to the analysis of real systems such as:
 
 ---
 
----
-
-## 🎯 Objective
-
-The goal of this repository is to explore the theoretical foundations and computational approaches of complex networks, highlighting their applications in diverse real-world systems.
